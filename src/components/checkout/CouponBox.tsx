@@ -1,5 +1,3 @@
-import React from 'react'
-
 const CouponBox = () => {
     return (<div>
         Coupon Box

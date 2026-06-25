@@ -1,5 +1,3 @@
-import React from 'react'
-
 const NotFoundForm = () => {
     return (<main className="notfound-main" role="main">
         <div className="notfound-inner">
